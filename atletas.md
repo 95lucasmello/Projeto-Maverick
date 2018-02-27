@@ -1,3 +1,3 @@
 # Melhores Atletas
-<rubinho barrichello>
+rubinho barrichello
 ----
