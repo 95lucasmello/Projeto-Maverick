@@ -1,3 +1,3 @@
 # Melhores Atletas
-<usain bolt>
+Usain Bolt
 ----
